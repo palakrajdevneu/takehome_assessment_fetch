@@ -61,8 +61,8 @@ docker run --rm -it multitask-transformer
 ### 3️⃣ **Pull from Docker Hub**
 If the Docker image was built via GitHub Actions, pull and run it using:
 ```sh
-docker pull YOUR_DOCKER_USERNAME/ml-takehome-assignment:latest
-docker run --rm -it YOUR_DOCKER_USERNAME/ml-takehome-assignment:latest
+docker pull palakrajdevv/ml-takehome-assignment:latest
+docker run --rm -it palakrajdevv/ml-takehome-assignment:latest
 ```
 
 ---
@@ -143,7 +143,7 @@ We welcome contributions! If you would like to contribute:
 
 1️⃣ **Fork the repository.**
 ```sh
-git clone https://github.com/YOUR_USERNAME/takehome_assessment_fetch.git
+git clone https://github.com/palakrajdevneu/takehome_assessment_fetch.git
 ```
 
 2️⃣ **Create a new branch:**
