@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+transformers
+sentence-transformers
+datasets
+scikit-learn
+numpy
+pandas
+matplotlib
+tqdm
+fastapi
+uvicorn
