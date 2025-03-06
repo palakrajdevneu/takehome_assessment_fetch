@@ -137,34 +137,6 @@ Open `notebook/FetchML_Apprentice_TakeHome.ipynb` and run all cells for testing.
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! If you would like to contribute:
-
-1️⃣ **Fork the repository.**
-```sh
-git clone https://github.com/palakrajdevneu/takehome_assessment_fetch.git
-```
-
-2️⃣ **Create a new branch:**
-```sh
-git checkout -b feature-branch
-```
-
-3️⃣ **Make your changes and commit them:**
-```sh
-git commit -m "Add new feature"
-```
-
-4️⃣ **Push to the branch:**
-```sh
-git push origin feature-branch
-```
-
-5️⃣ **Open a Pull Request.**
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
